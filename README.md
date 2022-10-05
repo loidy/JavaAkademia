@@ -1,4 +1,7 @@
-# JavaAkademia
+# Super akademia
+## Skveli studenti
+
+### Boli sme tu 2022
 
 **Hruby text**
 
