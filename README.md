@@ -5,7 +5,7 @@
 
 **Hruby text**
 
-*Tenky text*
+_Na tomto riadku sa nachadza zmena_
 
 [Google](www.google.com)
 
