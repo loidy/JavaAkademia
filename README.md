@@ -5,8 +5,6 @@
 
 Zmena v hrubom texte
 
-Zmena lokalne na tomto riadku.
-_Na tomto riadku sa nachadza VELMI VELKA ZMENA_
 
 [Google](www.google.com)
 
