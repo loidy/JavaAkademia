@@ -6,8 +6,7 @@
 Zmena v hrubom texte
 
 Zmena lokalne na tomto riadku.
-
-Pridal som novy raidok vo vetve main
+_Na tomto riadku sa nachadza VELMI VELKA ZMENA_
 
 [Google](www.google.com)
 
