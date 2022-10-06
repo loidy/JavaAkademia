@@ -6,7 +6,7 @@
 Zmena v hrubom texte
 
 Zmena lokalne na tomto riadku.
-_Na tomto riadku sa nachadza VELMI VELKA ZMENA_
+_Na tomto riadku sa nachadza nic_
 
 Pridal som novy raidok vo vetve main
 
