@@ -3,7 +3,7 @@
 
 ### Boli sme tu 2022
 
-**Hruby textik**
+Zmena v hrubom texte
 
 Zmena lokalne na tomto riadku.
 _Na tomto riadku sa nachadza VELMI VELKA ZMENA_
@@ -15,8 +15,3 @@ cd /c/Users/A*****/desktop/JavaAkademia
 export http_proxy='EMEA2\A1234567@he202496.emea2.cds.t-internal.com:3128'
 export https_proxy='EMEA2\A1234567@he202496.emea2.cds.t-internal.com:3128'
 ```
-
-Novy riadok je tu
-
-
-Novy riadok je tu znova
