@@ -5,6 +5,7 @@
 
 Zmena v hrubom texte
 
+Dalsia zmena v novej vetve feature
 
 [Google](www.google.com)
 
